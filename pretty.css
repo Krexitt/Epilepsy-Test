@@ -1,0 +1,31 @@
+html {
+  font-size: 30px;
+}
+h1 {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+body {
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 18px;
+}
+button {
+  display: flex;
+  margin-top: 30vh;
+  margin-left: auto;
+  margin-right: auto;
+
+  color: green;
+  border: 7px black solid;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+
